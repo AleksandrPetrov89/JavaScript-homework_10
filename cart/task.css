@@ -26,6 +26,17 @@ body {
   height: 100px;
   object-fit: contain;
 }
+
+.cart__delete {
+  margin: auto;
+  width: 60%;
+  background: red;
+  padding: 5px 10px;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 .product {
   display: flex;
   flex-wrap: wrap;
